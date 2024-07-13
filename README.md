@@ -1,4 +1,6 @@
 SkyShooter
+
+
 This is my ongoing project, where I am adding new components every day. SkyShooter is a simple but engaging game built using Python and Pygame.
 
 𝐇𝐨𝐰 𝐭𝐨 𝐑𝐮𝐧 𝐭𝐡𝐞 𝐆𝐚𝐦𝐞
